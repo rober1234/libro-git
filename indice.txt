@@ -2,3 +2,4 @@ Capitulo 1;Introducción a Gif
 Capitulo 2: Flujo de trabajo basico
 Capitulo 3: Repositorios remotos
 Capitulo 4: Repositorios remotos
+Capitulo 5: Conceptos avanzados
